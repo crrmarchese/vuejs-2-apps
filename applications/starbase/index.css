@@ -1,0 +1,19 @@
+body {
+    background: #262627;
+}
+#app{ 
+   font-family: 'Avenir', Helvetica, Arial, sans-serif;
+   -webkit-font-smoothing: antialiased; 
+   -moz-osx-font-smoothing: grayscale;
+   text-align: center;
+   color: white;
+   margin-top: 60px;
+}
+.character-card{
+    border: 2px solid #36a3f0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.card-title-header{
+    color: #358cd6;
+}
