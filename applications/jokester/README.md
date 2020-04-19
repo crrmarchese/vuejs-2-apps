@@ -1,6 +1,6 @@
 # jokester
 
-> A Vue.js project
+> A Vue.js project-Random joke generator
 
 ## Build Setup
 
